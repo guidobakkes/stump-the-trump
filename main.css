@@ -40,11 +40,18 @@ body {
 }
 
 .footer {
-    height: 500px;
-    top: 2700px;
+    top: 1700px;
     position: relative;
     z-index: -5;
     margin-left: 15%;
+}
+
+.bar {
+    height: 10px;
+    width: 100%;
+    top: 1690px;
+    background-color: black;
+    position: relative;
 }
 
 @media only screen and (max-device-width: 768px) {
