@@ -1,21 +1,36 @@
 body {
     padding: 0;
     margin: 0;
+    font-family: "Ovo", serif;
 }
 
 .secondary {
     margin: 160px 0 0 40px;
-    color: #BFBFBF;
-    font-family: "Droid Serif", serif;
     text-align: center;
-    font-style: italic;
     font-size: 1.5em;
+    font-style: italic;
+    color: #6C7A89;
+}
+
+.sd {
+    font-family: "Muli", sans-serif;
+    color: #BDC3C7;
+    text-align: right;
+    margin: 100px 150px 0 0;
+}
+
+.blue {
+    color: #446CB3;
+}
+
+.red {
+    color: #EF4836;
 }
 
 .fixed {
     position: fixed;
     left: 335px;
-    bottom: 340px;
+    bottom: 343px;
     margin-left: 15%;
 }
 
