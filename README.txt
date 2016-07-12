@@ -1,1 +1,1 @@
-The man. The legend.
+The man. The ...legend?
